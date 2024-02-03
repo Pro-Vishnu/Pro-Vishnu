@@ -10,8 +10,8 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a> -->
   </div>
-  <img src="https://komarev.com/ghpvc/?username=ak-akash03&style=flat-square&color=blue" alt=""/>
-<a href="https://github.com/ak-akash03?tab=followers"><img src="https://img.shields.io/github/followers/ak-akash03?label=Followers&style=social" alt="GitHub Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=Pro-Vishnu&style=flat-square&color=blue" alt=""/>
+<a href="https://github.com/Pro-Vishnu?tab=followers"><img src="https://img.shields.io/github/followers/Pro-Vishnu?label=Followers&style=social" alt="GitHub Badge"></a>
   <h1 color="blue">
   Hi 👋, I'm Vishnu Rathod
 <h3 align="center">Student at GH Raisoni college of engineering🌟</h3>
@@ -28,16 +28,6 @@
 
 
 
-
-
-<h1 align="center">Hi 👋, I'm Vishnu Rathod</h1>
-<h3 align="center">Student at GH Raisoni college of engineering🌟.</h3>
-
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Pro-Vishnu&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
 
 <br>
 
