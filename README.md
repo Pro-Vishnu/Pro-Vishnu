@@ -1,3 +1,22 @@
+<div id="badges">
+    <a href="https://www.linkedin.com/in/vishnu-rathod-94bab3253/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+<!--     <a href="#">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a> -->
+  </div>
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Vishnu Rathod</h1>
 <h3 align="center">Student at GH Raisoni college of engineering🌟.</h3>
 
