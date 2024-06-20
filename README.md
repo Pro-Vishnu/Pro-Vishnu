@@ -28,7 +28,7 @@
 
 
 
-
+OF 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -38,7 +38,7 @@
 
 - 📫 How to reach me **vishnurathod5884@gmail.com**
 
-- ⚡ Fun fact : B-TECH DATA SCIENCE IN ENGINEERING 
+- ⚡ Fun fact : B-TECH DATA SCIENCE IN ENGINEERING OF GHRIBM
 
 <br>
 
