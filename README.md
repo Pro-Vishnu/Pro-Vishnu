@@ -14,7 +14,7 @@
 <a href="https://github.com/Pro-Vishnu?tab=followers"><img src="https://img.shields.io/github/followers/Pro-Vishnu?label=Followers&style=social" alt="GitHub Badge"></a>
   <h1 color="blue">
   Hi 👋, I'm Vishnu Rathod
-<h3 align="center">Student at GH Raisoni college of engineering🌟</h3>
+<h3 align="center">Student at GH Raisoni college of engineering jalgaon🌟</h3>
   </h1>
 </div>
 <div align="center">
@@ -28,13 +28,12 @@
 
 
 
-OF 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
 
 
-- 🌱 I’m currently learning Data Science And Python Programming
+- 🌱 I’m currently learning Data Science And Programming languages
 
 - 📫 How to reach me **vishnurathod5884@gmail.com**
 
@@ -47,25 +46,25 @@ OF
   <a href="https://www.linkedin.com/in/vishnu-rathod-94bab3253" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center"
+  <!-- <a href="#" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center"
+      alt="adam pithen wala" height="30" width="40" /></a> -->
+  <!-- <a href="#" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="_._.adam._" height="30" width="40" /></a> -->
   <a href="https://www.hackerrank.com/vishnurathod5884?hr_r=1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
- <a href="#" target="blank"><img align="center"
+ <!-- <a href="#" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="adampithewan" height="30" width="40" /></a> -->
 </p>
 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>    
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  </p>
+    <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  </p> -->
 
 <br>
 
@@ -78,7 +77,7 @@ OF
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pro-Vishnu&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Pro-Vishnu" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pro-Vishnu&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Pro-Vishnu" /></p> -->
       
 
 [Pro-Vishnu](https://github.com/Pro-Vishnu)
