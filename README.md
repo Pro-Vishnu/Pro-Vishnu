@@ -1,36 +1,37 @@
 
-
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/vishnu-rathod-94bab3253/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <a href="https://www.linkedin.com/in/akash-rathod-01b630259/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-<!--     <a href="#">
+    <a href="#">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a> -->
+    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Pro-Vishnu&style=flat-square&color=blue" alt=""/>
-<a href="https://github.com/Pro-Vishnu?tab=followers"><img src="https://img.shields.io/github/followers/Pro-Vishnu?label=Followers&style=social" alt="GitHub Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=ak-akash03&style=flat-square&color=blue" alt=""/>
+<a href="https://github.com/ak-akash03?tab=followers"><img src="https://img.shields.io/github/followers/ak-akash03?label=Followers&style=social" alt="GitHub Badge"></a>
   <h1 color="blue">
-  Hi 👋, I'm Vishnu Rathod
-<h3 align="center">Student at GH Raisoni college of engineering jalgaon🌟</h3>
+    Hey,👋 I'm Vishnu Rathod
+<h3 align="center">Passionat Data Science From India</h3>
   </h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div><br><br><br>
 
-<br>
-<br>
+<<<<Student at GH Raisoni college of engineering jalgaon🌟
 
-- 🌱 I’m currently learning Data Science And Programming languages
+
+⚡ Fun fact : B-TECH DATA SCIENCE IN ENGINEERING OF GHRIBM
+
 
 - 📫 How to reach me **vishnurathod5884@gmail.com**
-
-- ⚡ Fun fact : B-TECH DATA SCIENCE IN ENGINEERING OF GHRIBM
+- 🌱 I’m currently learning **Data Analysis And Machine Learning**
+- 📄 Know about my experiences <b><a href = "https://drive.google.com/file/d/1yXpzCFTBqKOiWUvkn76blHgSeEjwFcxZ/view?usp=sharing"> Resume </a></b>
+- 🙋‍ More about me: Visit my <b><a href = "https://pro-vishnu.github.io/VishnuRathod/"> Website </a></b>
+- 🖇 Follow me on <b><a href = "https://www.linkedin.com/in/vishnu-rathod-94bab3253/?trk=public_profile_samename-profile&originalSubdomain=in"> Linkedin </a></b>
+<!-- - 📹 Subscribe on <b><a href = "https://www.youtube.com/@capturebypawar"> Youtube </a></b> -->
 
 <br>
 
@@ -74,3 +75,4 @@
       
 
 [Pro-Vishnu](https://github.com/Pro-Vishnu)
+
