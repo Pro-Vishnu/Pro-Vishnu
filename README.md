@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/akash-rathod-01b630259/">
+    <a href="https://www.linkedin.com/in/vishnu-rathod-94bab3253/?trk=public_profile_samename-profile&original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="#">
@@ -10,7 +10,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ak-akash03&style=flat-square&color=blue" alt=""/>
-<a href="https://github.com/ak-akash03?tab=followers"><img src="https://img.shields.io/github/followers/ak-akash03?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Pro-Vishnu?tab=followers"><img src="https://img.shields.io/github/followers/ak-akash03?label=Followers&style=social" alt="GitHub Badge"></a>
   <h1 color="blue">
     Hey,👋 I'm Vishnu Rathod
 <h3 align="center">Passionate Data Science From India</h3>
