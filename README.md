@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **vishnurathod5884@gmail.com**
 - 🌱 I’m currently learning **Data Analysis And Machine Learning**
-- 📄 Know about my experiences <b><a href = "https://drive.google.com/file/d/1SQ1ZwJopZBvSGceeJONXjnDunWrcS0iy/view?usp=sharing"> Resume </a></b>
+- 📄 Know about my experiences <b><a href = "https://drive.google.com/file/d/107CwCmiP6py7xEYcqIwyBMtNlBNM4hz2/view?usp=sharing"> Resume </a></b>
 - 🙋‍ More about me: Visit my <b><a href = "https://pro-vishnu.github.io/VishnuRathod/"> Website </a></b>
 - 🖇 Follow me on <b><a href = "https://www.linkedin.com/in/vishnu-rathod-94bab3253/?trk=public_profile_samename-profile&originalSubdomain=in"> Linkedin </a></b>
 <!-- - 📹 Subscribe on <b><a href = "https://www.youtube.com/@capturebypawar"> Youtube </a></b> -->
